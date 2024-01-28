@@ -62,7 +62,7 @@ input:focus,textarea:focus{
   border: none;
   border-radius: 5px;
   font-size: 25px;
-  padding: 8px 15px;
+  padding: 2px 20px;
   cursor: pointer;
   width: fit-content;
   font-weight: 700;
